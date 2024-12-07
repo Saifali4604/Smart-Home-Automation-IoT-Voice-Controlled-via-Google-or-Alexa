@@ -3,6 +3,9 @@ Utilized ESP32 to control 6 AC appliances with variable fan speed based on tempe
 ![image](https://github.com/user-attachments/assets/388db7fd-84b4-4371-b913-66187f95f1e6)
 
 
+![image](https://github.com/user-attachments/assets/d4b1d283-be48-4665-81ef-9d6d8db49084)
+
+
 ![image](https://github.com/user-attachments/assets/7fdf54ea-23bc-48b4-83e7-2bd938e80776)
 
 
