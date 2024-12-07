@@ -1,0 +1,2 @@
+https://blr1.blynk.cloud/external/api/update?token=LDJUmpWsuV0K8oUWVnkD7iLWO7lWICQF&v9=1
+https://blr1.blynk.cloud/external/api/get?token=LDJUmpWsuV0K8oUWVnkD7iLWO7lWICQF&v9
