@@ -1,6 +1,5 @@
 # Smart-Home-Automation-IoT-Voice-Controlled-via-Google-or-Alexa
 Utilized ESP32 to control 6 AC appliances with variable fan speed based on temperature and humidity. Enabled real-time control and monitoring.
-
 ![image](https://github.com/user-attachments/assets/388db7fd-84b4-4371-b913-66187f95f1e6)
 
 
